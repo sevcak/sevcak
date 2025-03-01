@@ -30,7 +30,7 @@ When I'm not coding, I'm either:
 - **Graphics & Game Dev:** OpenGL, GLSL, p5.js
 - **Languages:** C, Python, C#, JavaScript
 - **Editor:** Neovim (Kickstart.nvim)
-- **Other:** Git, Linux, Automata Theory
+- **Other:** Git, Linux
 
 ---
 
